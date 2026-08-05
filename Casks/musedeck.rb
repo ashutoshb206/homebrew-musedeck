@@ -1,6 +1,6 @@
 cask "musedeck" do
   version "1.2.0"
-  sha256 "4dc74a8910bf0cc93282bf9d4d551f537a2ecfc54c4f2e9e4dfd63c936df18cc"
+  sha256 "cb8112ca1e2d6ab8ac4117b20fc6708dfd0a66d54aea5d1a5f32124eb1e38b1b"
 
   url "https://github.com/ashutoshb206/MuseDeck/releases/download/v#{version}/MuseDeck.dmg"
   name "MuseDeck"
