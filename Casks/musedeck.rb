@@ -9,6 +9,12 @@ cask "musedeck" do
 
   app "MuseDeck.app"
 
+  postflight do
+    system_command "/usr/bin/xattr",
+                   args: ["-dr", "com.apple.quarantine", "#{appdir}/MuseDeck.app"],
+                   sudo: false
+  end
+
   zap trash: [
     "~/Library/Application Support/MuseDeck",
     "~/Library/Preferences/com.ashutoshbansal.musedeck.plist",
