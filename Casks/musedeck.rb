@@ -1,6 +1,6 @@
 cask "musedeck" do
   version "1.2.0"
-  sha256 "45c4e4636c9a32da56578e1fae281c05366b964f9f0565a8f8b04a0b093f27d3"
+  sha256 "82552c3e9af9dfc0a8758be7d5339004fbff995a2d50eb6e6519da82b1702aa7"
 
   url "https://muse-deck.vercel.app/MuseDeck.dmg"
   name "MuseDeck"
