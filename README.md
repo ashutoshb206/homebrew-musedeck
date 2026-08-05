@@ -1,6 +1,6 @@
 # Homebrew Tap for MuseDeck 🍺
 
-Official Homebrew Cask tap for **[MuseDeck](https://muse-deck.vercel.app/)** — A floating liquid-glass desktop widget for macOS.
+Official Homebrew Cask tap for **[MuseDeck]** — A floating liquid-glass desktop widget for macOS.
 
 ---
 
@@ -30,9 +30,3 @@ brew upgrade musedeck
 ```
 
 ---
-
-## 🌐 Links
-
-- **Website**: [https://muse-deck.vercel.app/](https://muse-deck.vercel.app/)
-- **Direct Download**: [Download MuseDeck.dmg](https://muse-deck.vercel.app/MuseDeck.dmg)
-- **License**: MIT
